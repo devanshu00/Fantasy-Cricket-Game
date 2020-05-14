@@ -1,0 +1,8 @@
+I have successfully developed the final project "Fantasy Cricket Game" as per the given guidelines.
+A simple database file is createed whic contains 5 tables for 5 different matches,1 table for player details and 1 table for player stats.
+2 ui files has been created using qt designer application containing multiple labels,line edits.horizontal layouts,radiobuttons,line widget and push button.
+Those ui files are converted into the py files usimg command prompt and the several functions are created to meet the given project requirements.
+The second py file  is linked to the first one for evaluation window,the rest menu options are being accessible using several dialog boxes.
+The fully funtional GUI application open via "Final.py" pyhon file and "evls.py" open evaluation window.\
+The error are shown in dialog boxes and are as per the cricket rules.
+Thank You.
